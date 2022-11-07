@@ -2,6 +2,9 @@
 # About the project
 *Write a short description about the course and add a link to your GitHub repository here. This is an R Markdown (.Rmd) file so you should use R Markdown syntax.*
 
+
+# 1)
+
 - This course sounds exciting. Data Science sounds interesting topic that might give tools to investigate and answer essential questions. Let's give it a chance and see.
 - https://github.com/mtkoisti2/IODS-project
 - https://mtkoisti2.github.io/IODS-project/
@@ -12,6 +15,9 @@ Which topics were most difficult?
   - To make GitHub and RStudio work together.
 Some other comments on the book and our new approach of getting started with R Markdown etc.?
   - I have nothing to say.
+  
+  # The link to GitHub repository
+  https://github.com/mtkoisti2/IODS-project
 
 ```{r}
 # This is a so-called "R chunk" where you can write R code.
@@ -19,4 +25,10 @@ Some other comments on the book and our new approach of getting started with R M
 date()
 
 ```
-The text continues here.
+
+# Lorem ipsum 
+## dolor sit amet, consectetur adipiscing elit. 
+Proin nec lacus rutrum, imperdiet mauris a, dignissim risus. Quisque urna est, fermentum nec pharetra nec, porta sit amet velit. *Integer massa est*, placerat vitae massa non, **venenatis hendrerit libero**. Donec quis purus tempor, mattis neque sodales, commodo erat. Sed auctor neque eget elit auctor, vitae viverra tortor egestas. Donec lacinia lacus id nunc convallis, fringilla ultrices mi *mollis*. 
+
+## Sed auctor neque eget elit auctor
+Cras bibendum, sapien nec vulputate pharetra, [Link to R Studio](http://www.rstudio.com/) libero diam sodales tortor, ut vulputate arcu leo nec tellus. Vivamus vel est vitae lorem lobortis euismod. Maecenas at interdum magna. Ut finibus tristique velit sed placerat. Aliquam erat volutpat. Quisque euismod ipsum venenatis metus tristique, eget ultrices enim scelerisque. Proin rutrum lorem eget consectetur vulputate. Sed a magna in nisl tincidunt egestas sed non metus.
